@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Hong\Meepo;
+namespace hong\meepo;
  
 class Util 
 {
