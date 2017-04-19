@@ -1,9 +1,14 @@
 {
-	"name": "gMeepo/php",
-	"type": "library",
-	"description": "gMeepo PHP Library",
-	"keywords": ["php", "gMeepo", "rpc"],
-	"authors": [
-		{ "name" : "meepo an" },
-	]
+  "name": "hong/meepo",
+  "description": "meepo Application Template",
+  "keywords": [
+    "meepo",
+    "PHP"
+  ],
+  "authors": [
+    {
+      "name": "meepo An",
+      "email": "297030735@qq.com"
+    }
+  ]
 }
