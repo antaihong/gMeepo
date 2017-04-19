@@ -1,0 +1,12 @@
+{
+	"name": "gMeepo/php",
+	"type": "library",
+	"description": "gMeepo PHP Library",
+	"keywords": ["php", "gMeepo", "rpc"],
+	"authors": [
+		{ "name" : "meepo an" }
+	],
+        "require": {
+		"php": "^7.0.0"
+	},
+}
