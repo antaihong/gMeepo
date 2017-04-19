@@ -10,5 +10,12 @@
       "name": "meepo An",
       "email": "297030735@qq.com"
     }
-  ]
+  ],
+  "license": "MIT",
+	"require": {
+		"php": ">=5.6.0"
+	},
+	"autoload": {
+		"psr-4": {"antaiong\\gmeepo\\": ""}
+	}
 }
